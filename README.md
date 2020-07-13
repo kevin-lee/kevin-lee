@@ -1,5 +1,10 @@
 ### Hi there 👋 I'm Kevin Lee.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKevin-Lee)](https://hits.seeyoufarm.com)
+[![](https://img.shields.io/badge/%F0%9F%8F%A0-Home-blue)](https://kevinlee.io)
+[![](https://img.shields.io/badge/%F0%9F%93%99-Blog-green)](https://blog.kevinlee.io)
+[![](https://img.shields.io/badge/%F0%9F%93%91-FP%20Scala-red)](https://2020-hindsight-scala.kevinly.dev)
+
 <!--
 **Kevin-Lee/Kevin-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,6 +36,7 @@ I like to develop tools to help ease the pain in my daily tasks and solve real w
 |           | <a href="https://github.com/Kevin-Lee/maven2sbt" target="_blank">maven2sbt</a> | A tool to convert Maven `pom.xml` into sbt `build.sbt` |
 |           | <a href="https://github.com/Kevin-Lee/just-fp" target="_blank">just-fp</a> | A small Functional Programming library |
 |           | <a href="https://github.com/Kevin-Lee/j8plus" target="_blank">j8plus</a> | Missing Functional Parts of Java 8 |
+
 and [more...](https://github.com/Kevin-Lee?tab=repositories)
 
 These are all my personal projects. I do use Scala at work as well but none is publicly available.
