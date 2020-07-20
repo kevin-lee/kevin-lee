@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Lee&theme=merko)
+
 I am a coder, who likes Functional Programming, and mainly use Scala.
 
 I like to develop tools to help ease the pain in my daily tasks and solve real world problems.
