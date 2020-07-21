@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Lee&theme=merko)
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Lee)
 
 I am a coder, who likes Functional Programming, and mainly use Scala.
 
