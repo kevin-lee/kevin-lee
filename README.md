@@ -30,14 +30,14 @@ I like to develop tools to help ease the pain in my daily tasks and solve real w
 
 |           | Project | Description |
 |-----------|---------|-------------|
-| <a href="https://sbt-devoops.kevinly.dev" target="_blank"><img src="https://sbt-devoops.kevinly.dev/img/sbt-devoops-logo-64x64.png" /></a> | <a href="https://github.com/Kevin-Lee/sbt-devoops" target="_blank">sbt-devoops</a> | Upload artifacts and changelog to GitHub Release |
-| <a href="https://kevin-lee.github.io/sbt-github-pages" target="_blank"><img src="https://sbt-github-pages.kevinly.dev/img/sbt-github-pages-logo-64x64.png" /></a> | <a href="https://kevin-lee.github.io/sbt-github-pages" target="_blank">sbt-github-pages</a> | Publish GitHub Pages with minimal effort |
-| <a href="https://kevin-lee.github.io/sbt-docusaur" target="_blank"><img src="https://sbt-docusaur.kevinly.dev/img/sbt-docusaur-logo-64x64.png" /></a> | <a href="https://kevin-lee.github.io/sbt-docusaur" target="_blank">sbt-docusaur</a> | sbt plugin for Docusaurus |
-| <a href="https://kevin-lee.github.io/2020-hindsight-scala" target="_blank"><img src="https://2020-hindsight-scala.kevinly.dev/img/2020-hindsight-logo-64x64.png" /></a> | <a href="https://kevin-lee.github.io/2020-hindsight-scala" target="_blank">2020 Hindsight Scala</a> | The Good, the Bad and the Ugly Practices in FP Scala |
-| <a href="https://kevin-lee.github.io/effectie" target="_blank"><img src="https://effectie.kevinly.dev/img/effectie-logo-64x64.png" /></a> | <a href="https://kevin-lee.github.io/effectie" target="_blank">effectie</a> | A Tool for FP Effect Libraries |
-| <a href="https://kevin-lee.github.io/logger-f" target="_blank"><img src="https://logger-f.kevinly.dev/img/logger-f-logo-64x64.png" /></a> | <a href="https://kevin-lee.github.io/logger-f" target="_blank">logger-f</a> | Logger for `F[_]` |
-| <a href="https://kevin-lee.github.io/maven2sbt" target="_blank"><img src="https://maven2sbt.kevinly.dev/img/maven2sbt-logo-64x64.png" /></a> | <a href="https://github.com/Kevin-Lee/maven2sbt" target="_blank">maven2sbt</a> | A tool to convert Maven `pom.xml` into sbt `build.sbt` |
-|           | <a href="https://github.com/Kevin-Lee/just-fp" target="_blank">just-fp</a> | A small Functional Programming library |
+| <a href="https://sbt-devoops.kevinly.dev" target="_blank"><img src="https://sbt-devoops.kevinly.dev/img/sbt-devoops-logo-64x64.png" /></a> | <a href="https://kevin-lee.github.io/sbt-devoops" target="_blank">sbt-devoops</a> | Upload artifacts and changelog to GitHub Release |
+| <a href="https://sbt-github-pages.kevinly.dev" target="_blank"><img src="https://sbt-github-pages.kevinly.dev/img/sbt-github-pages-logo-64x64.png" /></a> | <a href="https://kevin-lee.github.io/sbt-github-pages" target="_blank">sbt-github-pages</a> | Publish GitHub Pages with minimal effort |
+| <a href="https://sbt-docusaur.kevinly.dev" target="_blank"><img src="https://sbt-docusaur.kevinly.dev/img/sbt-docusaur-logo-64x64.png" /></a> | <a href="https://kevin-lee.github.io/sbt-docusaur" target="_blank">sbt-docusaur</a> | sbt plugin for Docusaurus |
+| <a href="https://2020-hindsight-scala.kevinly.dev" target="_blank"><img src="https://2020-hindsight-scala.kevinly.dev/img/2020-hindsight-logo-64x64.png" /></a> | <a href="https://kevin-lee.github.io/2020-hindsight-scala" target="_blank">2020 Hindsight Scala</a> | The Good, the Bad and the Ugly Practices in FP Scala |
+| <a href="https://effectie.kevinly.dev" target="_blank"><img src="https://effectie.kevinly.dev/img/effectie-logo-64x64.png" /></a> | <a href="https://kevin-lee.github.io/effectie" target="_blank">effectie</a> | A Tool for FP Effect Libraries |
+| <a href="https://logger-f.kevinly.dev" target="_blank"><img src="https://logger-f.kevinly.dev/img/logger-f-logo-64x64.png" /></a> | <a href="https://kevin-lee.github.io/logger-f" target="_blank">logger-f</a> | Logger for `F[_]` |
+| <a href="https://maven2sbt.kevinly.dev" target="_blank"><img src="https://maven2sbt.kevinly.dev/img/maven2sbt-logo-64x64.png" /></a> | <a href="https://kevin-lee.github.io/maven2sbt" target="_blank">maven2sbt</a> | A tool to convert Maven `pom.xml` into sbt `build.sbt` |
+|           | <a href="https://kevin-lee.github.io/just-fp" target="_blank">just-fp</a> | A small Functional Programming library |
 |           | <a href="https://github.com/Kevin-Lee/j8plus" target="_blank">j8plus</a> | Missing Functional Parts of Java 8 |
 
 and [more...](https://github.com/Kevin-Lee?tab=repositories)
