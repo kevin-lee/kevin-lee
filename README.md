@@ -39,6 +39,7 @@ I like to develop tools to help ease the pain in my daily tasks and solve real w
 | <a href="https://maven2sbt.kevinly.dev" target="_blank"><img src="https://maven2sbt.kevinly.dev/img/maven2sbt-logo-64x64.png" /></a> | <a href="https://kevin-lee.github.io/maven2sbt" target="_blank">maven2sbt</a> | A tool to convert Maven `pom.xml` into sbt `build.sbt` | <a href="https://github.com/Kevin-Lee/maven2sbt"><img src="GitHub-Mark-32px.png" alt="Project Repository" /></a> |
 | <a href="https://just-fp.kevinly.dev" target="_blank"><img src="https://just-fp.kevinly.dev/img/just-fp-logo-64x64.png" /></a> | <a href="https://kevin-lee.github.io/just-fp" target="_blank">just-fp</a> | A small Functional Programming library | <a href="https://github.com/Kevin-Lee/just-fp"><img src="GitHub-Mark-32px.png" alt="Project Repository" /></a> |
 | <a href="https://j8plus.kevinly.dev" target="_blank"><img src="https://j8plus.kevinly.dev/img/j8plus-logo-64x64.png" /></a> | <a href="https://kevin-lee.github.io/j8plus" target="_blank">j8plus</a> | Missing Functional Parts of Java 8 | <a href="https://github.com/Kevin-Lee/j8plus"><img src="GitHub-Mark-32px.png" alt="Project Repository" /></a> |
+| <a href="https://blog.kevinlee.io" target="_blank"><img src="https://blog.kevinlee.io/img/kevin-blog-logo-64x64.png" /></a> | <a href="https://blog.kevinlee.io" target="_blank">Blog</a> |  |  |
 
 and [more...](https://github.com/Kevin-Lee?tab=repositories)
 
