@@ -26,6 +26,8 @@ I am a coder, who likes Functional Programming, and mainly use Scala.
 
 I like to develop tools to help ease the pain in my daily tasks and solve real world problems.
 
+![Metrics](https://metrics.lecoq.io/Kevin-Lee?template=classic&base.community=0&followup=1&isocalendar=1&languages=1&languages.ignored=java&isocalendar.duration=full-year&config.timezone=Australia%2FSydney)
+
 🔭 I’m currently working on
 
 |           | Project | Description | Repo |
