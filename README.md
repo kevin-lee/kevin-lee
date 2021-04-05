@@ -20,14 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kevin-Lee&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Lee)
-
 I am a coder, who likes Functional Programming, and mainly use Scala.
 
 I like to develop tools to help ease the pain in my daily tasks and solve real world problems.
 
-![Metrics](https://metrics.lecoq.io/Kevin-Lee?template=classic&base.community=0&followup=1&isocalendar=1&languages=1&languages.ignored=java&isocalendar.duration=full-year&config.timezone=Australia%2FSydney)
 
 ### 🔭 I’m currently working on
 
@@ -51,3 +47,7 @@ These are all my personal projects. I do use Scala at work as well but none is p
 * Homepage: https://kevinlee.io
 * Blog: https://blog.kevinlee.io
 * FP Scala Doc: https://2020-hindsight-scala.kevinly.dev
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kevin-Lee&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Lee)
+![Metrics](https://metrics.lecoq.io/Kevin-Lee?template=classic&languages=1&lines=1&languages.ignored=java&languages.colors=github&languages.threshold=0%25&config.timezone=Australia%2FSydney)
