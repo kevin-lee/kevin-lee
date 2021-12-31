@@ -51,4 +51,4 @@ These are all my personal projects. I do use Scala at work as well but none is p
 * FP Scala Doc: https://2020-hindsight-scala.kevinly.dev
 
 ![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Lee)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kevin-Lee&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kevin-Lee&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
