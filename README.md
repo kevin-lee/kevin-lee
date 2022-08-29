@@ -51,5 +51,9 @@ These are all my personal projects. I do use Scala at work as well but none is p
 * Blog: https://blog.kevinlee.io
 * FP Scala Doc: https://2020-hindsight-scala.kevinly.dev
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Lee)
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Lee&count_private=true&theme=tokyonight&hide_border=true&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lee&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kevin-Lee&theme=tokyonight&hide_border=true)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kevin-Lee&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
