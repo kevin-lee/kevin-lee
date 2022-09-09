@@ -51,9 +51,27 @@ These are all my personal projects. I do use Scala at work as well but none is p
 * Blog: https://blog.kevinlee.io
 * FP Scala Doc: https://2020-hindsight-scala.kevinly.dev
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevin-Lee&count_private=true&theme=tokyonight&hide_border=true&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lee&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kevin-Lee&count_private=true&theme=tokyonight&hide_border=true&hide_rank=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kevin-Lee&count_private=true&theme=solarized-light&hide_border=true&hide_rank=true">
+  <img alt="Kevin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kevin-Lee&count_private=true&theme=solarized-light&hide_border=true&hide_rank=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lee&theme=tokyonight&hide_border=true&layout=compact&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lee&theme=solarized-light&hide_border=true&layout=compact&langs_count=8">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lee&theme=solarized-light&hide_border=true&layout=compact&langs_count=8">
+</picture>
+<br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kevin-Lee&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Kevin-Lee&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Kevin-Lee&theme=solarized-light&hide_border=true">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Kevin-Lee&theme=solarized-light&hide_border=true">
+</picture>
+<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kevin-Lee&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Kevin-Lee&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Kevin-Lee&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy">
+  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Kevin-Lee&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy">
+</picture>
