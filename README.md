@@ -58,9 +58,9 @@ These are all my personal projects. I do use Scala at work as well but none is p
   <img alt="Kevin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kevin-Lee&count_private=true&theme=solarized-light&hide_border=true&hide_rank=true">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lee&theme=tokyonight&hide_border=true&layout=compact&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lee&theme=solarized-light&hide_border=true&layout=compact&langs_count=8">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lee&theme=solarized-light&hide_border=true&layout=compact&langs_count=8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lee&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=java">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lee&theme=solarized-light&hide_border=true&layout=compact&langs_count=8&hide=java">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lee&theme=solarized-light&hide_border=true&layout=compact&langs_count=8&hide=java">
 </picture>
 <br>
 
