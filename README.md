@@ -58,9 +58,9 @@ These are all my personal projects. I do use Scala at work as well but none is p
   <img alt="Kevin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kevin-lee&count_private=true&theme=solarized-light&hide_border=true&hide_rank=true">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-lee&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=java">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-lee&theme=solarized-light&hide_border=true&layout=compact&langs_count=8&hide=java">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-lee&theme=solarized-light&hide_border=true&layout=compact&langs_count=8&hide=java">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-lee&theme=tokyonight&hide_border=true&layout=compact&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-lee&theme=solarized-light&hide_border=true&layout=compact&langs_count=8">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-lee&theme=solarized-light&hide_border=true&layout=compact&langs_count=8">
 </picture>
 <br>
 
@@ -76,3 +76,7 @@ These are all my personal projects. I do use Scala at work as well but none is p
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=kevin-lee&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy">
   <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=kevin-lee&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy">
 </picture>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevin-lee&repo=refined4s)](https://github.com/kevin-lee/refined4s)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevin-lee&repo=openai4s)](https://github.com/kevin-lee/openai4s)
