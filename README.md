@@ -78,5 +78,7 @@ These are all my personal projects. I do use Scala at work as well but none is p
 </picture>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevin-lee&repo=refined4s)](https://github.com/kevin-lee/refined4s)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevin-lee&repo=openai4s)](https://github.com/kevin-lee/openai4s)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevin-lee&repo=just-semver)](https://github.com/kevin-lee/just-semver)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevin-lee&repo=sbt-docusaur)](https://github.com/kevin-lee/sbt-docusaur)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevin-lee&repo=sbt-github-pages)](https://github.com/kevin-lee/sbt-github-pages)
