@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kevin Lee.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkevin-lee)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.sh/github.com/kevin-lee.svg)](https://hits.sh/github.com/kevin-lee/)
 [![](https://img.shields.io/badge/%F0%9F%8F%A0-Home-blue)](https://kevinlee.io)
 [![](https://img.shields.io/badge/%F0%9F%93%99-Blog-green)](https://blog.kevinlee.io)
 [![](https://img.shields.io/badge/%F0%9F%93%91-FP%20Scala-red)](https://2020-hindsight-scala.kevinly.dev)
