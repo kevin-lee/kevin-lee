@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Kevin Lee.
 
 [![Hits](https://hits.sh/github.com/kevin-lee.svg)](https://hits.sh/github.com/kevin-lee/)
+![GitHub Org's stars](https://img.shields.io/github/stars/kevin-lee)
+
 [![](https://img.shields.io/badge/%F0%9F%8F%A0-Home-blue)](https://kevinlee.io)
 [![](https://img.shields.io/badge/%F0%9F%93%99-Blog-green)](https://blog.kevinlee.io)
 [![](https://img.shields.io/badge/%F0%9F%93%91-FP%20Scala-red)](https://2020-hindsight-scala.kevinly.dev)
@@ -65,9 +67,9 @@ These are all my personal projects. I do use Scala at work as well but none is p
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kevin-lee&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kevin-lee&theme=solarized-light&hide_border=true">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=kevin-lee&theme=solarized-light&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kevin-lee&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=kevin-lee&theme=solarized-light&hide_border=true">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=kevin-lee&theme=solarized-light&hide_border=true">
 </picture>
 <br>
 
