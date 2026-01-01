@@ -76,9 +76,9 @@ publicly available.
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=kevin-lee&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=kevin-lee&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy">
-  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=kevin-lee&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-git-master-ryo-ma-s-team.vercel.app?username=kevin-lee&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-git-master-ryo-ma-s-team.vercel.app?username=kevin-lee&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy">
+  <img alt="Trophy" src="https://github-profile-trophy-git-master-ryo-ma-s-team.vercel.app?username=kevin-lee&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy">
 </picture>
 
 
