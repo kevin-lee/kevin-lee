@@ -7,6 +7,8 @@
 [![](https://img.shields.io/badge/%F0%9F%93%99-Blog-green)](https://blog.kevinlee.io)
 [![](https://img.shields.io/badge/%F0%9F%93%91-FP%20Scala-red)](https://2020-hindsight-scala.kevinly.dev)
 
+[![committers.top badge](https://user-badge.committers.top/australia/kevin-lee.svg)](https://user-badge.committers.top/australia/kevin-lee)
+
 <!--
 **kevin-lee/kevin-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -75,10 +77,17 @@ publicly available.
 </picture>
 <br>
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-git-master-ryo-ma-s-team.vercel.app?username=kevin-lee&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-git-master-ryo-ma-s-team.vercel.app?username=kevin-lee&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy">
   <img alt="Trophy" src="https://github-profile-trophy-git-master-ryo-ma-s-team.vercel.app?username=kevin-lee&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy">
+</picture>
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=kevin-lee&theme=nord&column=4)](https://github.com/lucthienphong1120/github-trophies">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=kevin-lee&theme=flat&column=4)](https://github.com/lucthienphong1120/github-trophies">
+  <img alt="Trophy" src="https://github-trophies.vercel.app/?username=kevin-lee&theme=flat&column=4)](https://github.com/lucthienphong1120/github-trophies">
 </picture>
 
 
