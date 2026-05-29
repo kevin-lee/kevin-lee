@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Kevin Lee.
 
 [![Hits](https://hits.sh/github.com/kevin-lee.svg)](https://hits.sh/github.com/kevin-lee/)
-![GitHub Org's stars](https://img.shields.io/github/stars/kevin-lee)
+![GitHub User's stars](https://img.shields.io/github/stars/kevin-lee)
 
 [![](https://img.shields.io/badge/%F0%9F%8F%A0-Home-blue)](https://kevinlee.io)
 [![](https://img.shields.io/badge/%F0%9F%93%99-Blog-green)](https://blog.kevinlee.io)
