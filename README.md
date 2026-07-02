@@ -60,14 +60,14 @@ publicly available.
 * FP Scala Doc: https://2020-hindsight-scala.kevinly.dev
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kevin-lee&count_private=true&theme=tokyonight&hide_border=true&hide_rank=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kevin-lee&count_private=true&theme=solarized-light&hide_border=true&hide_rank=true">
-  <img alt="Kevin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kevin-lee&count_private=true&theme=solarized-light&hide_border=true&hide_rank=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=kevin-lee&count_private=true&theme=tokyonight&hide_border=true&hide_rank=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=kevin-lee&count_private=true&theme=solarized-light&hide_border=true&hide_rank=true">
+  <img alt="Kevin's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=kevin-lee&count_private=true&theme=solarized-light&hide_border=true&hide_rank=true">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-lee&theme=tokyonight&hide_border=true&layout=compact&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-lee&theme=solarized-light&hide_border=true&layout=compact&langs_count=8">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-lee&theme=solarized-light&hide_border=true&layout=compact&langs_count=8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=kevin-lee&theme=tokyonight&hide_border=true&layout=compact&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=kevin-lee&theme=solarized-light&hide_border=true&layout=compact&langs_count=8">
+  <img alt="Top Langs" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kevin-lee&theme=solarized-light&hide_border=true&layout=compact&langs_count=8">
 </picture>
 <br>
 
@@ -92,7 +92,7 @@ publicly available.
 </picture>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevin-lee&repo=openai4s)](https://github.com/kevin-lee/openai4s)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevin-lee&repo=just-semver)](https://github.com/kevin-lee/just-semver)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevin-lee&repo=sbt-docusaur)](https://github.com/kevin-lee/sbt-docusaur)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevin-lee&repo=sbt-github-pages)](https://github.com/kevin-lee/sbt-github-pages)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=kevin-lee&repo=openai4s)](https://github.com/kevin-lee/openai4s)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=kevin-lee&repo=just-semver)](https://github.com/kevin-lee/just-semver)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=kevin-lee&repo=sbt-docusaur)](https://github.com/kevin-lee/sbt-docusaur)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=kevin-lee&repo=sbt-github-pages)](https://github.com/kevin-lee/sbt-github-pages)
