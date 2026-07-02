@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/%F0%9F%93%99-Blog-green)](https://blog.kevinlee.io)
 [![](https://img.shields.io/badge/%F0%9F%93%91-FP%20Scala-red)](https://2020-hindsight-scala.kevinly.dev)
 
-[![committers.top badge](https://user-badge.committers.top/australia/kevin-lee.svg)](https://user-badge.committers.top/australia/kevin-lee)
+[![committers.top badge](https://user-badge.committers.top/australia_private/kevin-lee.svg)](https://user-badge.committers.top/australia_private/kevin-lee)
 
 <!--
 **kevin-lee/kevin-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
